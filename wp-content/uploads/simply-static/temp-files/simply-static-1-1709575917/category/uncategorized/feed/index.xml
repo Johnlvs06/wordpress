@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; My Portfolio</title>
+	<atom:link href="https://johnlvs06.github.io/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://johnlvs06.github.io/wordpress</link>
+	<description></description>
+	<lastBuildDate>Wed, 07 Feb 2024 02:06:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Chat Support</title>
+		<link>https://johnlvs06.github.io/wordpress/chat-support/</link>
+					<comments>https://johnlvs06.github.io/wordpress/chat-support/#respond</comments>
+		
+		<dc:creator><![CDATA[johnlvs]]></dc:creator>
+		<pubDate>Wed, 07 Feb 2024 02:06:19 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://johnlvs06.github.io/wordpress/?p=1046</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://johnlvs06.github.io/wordpress/chat-support/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://johnlvs06.github.io/wordpress/hello-world/</link>
+					<comments>https://johnlvs06.github.io/wordpress/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[johnlvs]]></dc:creator>
+		<pubDate>Fri, 02 Feb 2024 09:08:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://johnlvs06.github.io/wordpress/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://johnlvs06.github.io/wordpress/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
